@@ -4,7 +4,8 @@
   "description": "ERROR: No README.md file found!",
   "main": "app.js",
   "dependencies": {
-    "markdown": "~0.5.0"
+    "ejs": "~2.3.1",
+    "promise": "6.1.0"
   },
   "devDependencies": {},
   "scripts": {

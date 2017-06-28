@@ -1,4 +1,5 @@
 module.exports = {
-    PORT : 9900,
+    logPath : './logs/',
+    host : '9000',
     default : 'index'
 };
